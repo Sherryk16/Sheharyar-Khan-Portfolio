@@ -79,13 +79,13 @@ export default function AboutPage() {
              {/* Website Link */}
              <div className="mb-6">
                <a 
-                 href="https://sherry.xyz"
+                 href="https://sheharyar-khan-portfolio.vercel.app/"
                  target="_blank"
                  rel="noopener noreferrer"
                  className="flex items-center gap-2 text-gray-400 hover:text-white transition-colors justify-center lg:justify-start"
                >
                  <Globe className="w-4 h-4" />
-                 <span className="text-sm">sherry.xyz</span>
+                 <span className="text-sm">sheharyar-khan-portfolio.vercel.app</span>
                </a>
              </div>
 
